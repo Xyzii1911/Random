@@ -1,4 +1,4 @@
-# 666
+# SATANIC ⸸ 666
 SCRIPT HENGKER
 
 pkg update && pkg upgrade
