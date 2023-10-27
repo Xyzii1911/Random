@@ -1,3 +1,4 @@
+#Mau Ngapain TOD.?
 #ENCODED BY : NdreeXyz
 #ENCRYPTION : Py3 MARSHAL
 #GITHUB : https://github.com/666-Xyzii
