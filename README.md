@@ -11,9 +11,9 @@ pip install bs4
 
 pip install rich
 
-git clone https://github.com/666-Xyzii/666
+git clone https://github.com/666-Xyzii/NdreeXyz
 
-cd 666
+cd NdreeXyz 
 
 ls
 
